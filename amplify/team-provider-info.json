@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-menulitica-dev-180927-authRole",
+      "UnauthRoleArn": "arn:aws:iam::196978290375:role/amplify-menulitica-dev-180927-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::196978290375:role/amplify-menulitica-dev-180927-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-menulitica-dev-180927-deployment",
+      "UnauthRoleName": "amplify-menulitica-dev-180927-unauthRole",
+      "StackName": "amplify-menulitica-dev-180927",
+      "StackId": "arn:aws:cloudformation:ap-south-1:196978290375:stack/amplify-menulitica-dev-180927/a9138f90-fcd0-11ea-a1c2-0a436adfb95c",
+      "AmplifyAppId": "d1gkqh5zkkuvkn"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1gkqh5zkkuvkn",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "menulitica4362b740": {}
+      }
+    }
+  }
+}
